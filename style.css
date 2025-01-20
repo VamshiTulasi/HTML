@@ -4,12 +4,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    line-height: 1.6;
+    line-height: 2.8;
     color: #333;
     background-image: url('./images/roberto-h-qToVxSYXPYU-unsplash-2.jpg'); /* Path to your background image */
     background-size: cover; /* Ensures the image covers the entire page */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position-y: 108px;
 }
 
 
@@ -55,4 +56,8 @@ footer {
     width: 100%;
     bottom: 0;
 }
-  
+ .projects{
+    color: #fff;
+    text-decoration: underline;
+
+ } 
